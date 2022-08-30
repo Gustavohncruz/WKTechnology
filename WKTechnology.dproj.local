@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/09 17:22:01.000.155,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2021/05/25 17:30:37.000.779,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2021/05/25 17:32:19.000.803,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2021/05/25 17:36:41.000.310,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2021/05/25 17:38:31.000.581,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\GridView1.pas</Transaction>
+    <Transaction>2021/05/25 17:38:32.000.510,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\DetailView1.pas</Transaction>
+    <Transaction>2021/06/15 10:26:14.000.191,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2021/06/18 14:18:23.000.499,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2021/06/21 15:26:45.000.686,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2022/08/28 08:47:47.000.435,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2022/08/28 08:48:14.000.641,=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2022/08/28 08:49:22.000.092,C:\Users\ADM\Desktop\WK Technology\DataModule.pas=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit9.pas</Transaction>
+    <Transaction>2022/08/28 08:49:22.000.092,C:\Users\ADM\Desktop\WK Technology\DataModule.dfm=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Unit9.dfm</Transaction>
+    <Transaction>2022/08/28 08:50:22.000.031,C:\Users\ADM\Desktop\WK Technology\WKTechnology.dproj=C:\Users\ADM\Documents\Embarcadero\Studio\Projects\Project8.dproj</Transaction>
+    <Transaction>2022/08/28 12:47:09.000.896,=C:\Users\ADM\Desktop\WK Technology\PV.pas</Transaction>
+    <Transaction>2022/08/29 00:54:59.490,=C:\Users\ADM\Desktop\WK Technology\Unit1.pas</Transaction>
+    <Transaction>2022/08/29 01:03:29.696,C:\Users\ADM\Desktop\WK Technology\VO\VO.PV.pas=C:\Users\ADM\Desktop\WK Technology\Unit1.pas</Transaction>
+    <Transaction>2022/08/29 13:14:14.973,=C:\Users\ADM\Desktop\WK Technology\Unit1.pas</Transaction>
+    <Transaction>2022/08/29 13:16:12.069,C:\Users\ADM\Desktop\WK Technology\Constant\Constant.PV.pas=C:\Users\ADM\Desktop\WK Technology\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

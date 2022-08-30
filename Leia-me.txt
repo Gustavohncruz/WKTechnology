@@ -1,0 +1,7 @@
+Local do BD para realizar o Restore: WK Technology\DB
+Local dos scripts que realizei para criação do banco: WK Technology\DB\script
+Senha root MySQL:MK+3chn*10gy
+Usuário ADM MySQL:gustavo
+Senha usuário ADM MySQL:28Rf#Iom1x&j*)9
+
+Desenvolvimento realizado no Delphi 10.2
